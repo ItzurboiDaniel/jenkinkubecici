@@ -1,2 +1,5 @@
 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
 git push https://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@github.com/ItzurboiDaniel/jenkinkubecici.git
+
+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
+git push https://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@github.com/ItzurboiDaniel/jenkinkubecici.git
